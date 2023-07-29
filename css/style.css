@@ -193,10 +193,13 @@
 }
 
 .page-header-service {
-    background: url(../img/service-bg.png) center center no-repeat;
+    background: url(../img/service_bg2_final.jpg) center center no-repeat;
     background-size: cover;
 }
-
+.page-header-contact {
+    background: url(../img/contact.jpg) center center no-repeat;
+    background-size: cover;
+}
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
 }
