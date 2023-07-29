@@ -192,8 +192,8 @@
     }
 }
 
-.page-header {
-    background: url(../img/img-bg.png) center center no-repeat;
+.page-header-service {
+    background: url(../img/service-bg.png) center center no-repeat;
     background-size: cover;
 }
 
